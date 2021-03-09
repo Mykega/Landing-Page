@@ -20,7 +20,7 @@ export function Main() {
 					card3="Prueba 4"
 					buttonUrl="Url"
 				/>
-				);
+				
 			</div>
 			<div className="bd-footer text-center text-sm-star">
 				<Footer />
